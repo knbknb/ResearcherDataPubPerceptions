@@ -1,3 +1,9 @@
+##### knbknb Notes
+Check if more senior scientists (PI's) also have little knowledge of data sharing policies.
+
+
+### ORIGINAL AUTHOR NOTES
+
 ResearcherDataPubPerceptions
 ============================
 [![DOI](https://zenodo.org/badge/5545/JEK-III/ResearcherDataPubPerceptions.svg)](http://dx.doi.org/10.5281/zenodo.13121)
